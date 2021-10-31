@@ -1,2 +1,2 @@
-# lab1
+# oss_lab1
 lab1
