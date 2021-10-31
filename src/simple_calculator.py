@@ -53,4 +53,3 @@ while True:
     else:
         x,y = quotient_remainder(num1,num2)
         print(num1,'/',num2,'=','몫:',x,'&','나머지:',y)
-
