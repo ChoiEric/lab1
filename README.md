@@ -1,4 +1,4 @@
-# oss_lab1
+# Smart Scheduler
 lab1
 
     oss lab1
