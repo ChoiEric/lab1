@@ -11,8 +11,4 @@
 
 시스템 개요
 ---------------------
-
-
-
-
-    oss lab1
+![순서도](https://user-images.githubusercontent.com/90210054/139774564-554022cd-e572-43fd-aa32-fe2e5e28d80d.JPG)
